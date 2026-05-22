@@ -1,5 +1,5 @@
 myenv/
-.env/
+.env
 __pycache__/
 products.json
 
